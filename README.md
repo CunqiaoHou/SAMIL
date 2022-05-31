@@ -1,7 +1,7 @@
 # SAMIL
 Official implementation of Paper：SHUFFLE ATTENTION MULTIPLE INSTANCES LEARNING FOR BREAST CANCER WHOLE SLIDE IMAGE CLASSIFICATION (submitted to ICIP 2022)
 
-![image](https://github.com/CunqiaoHou/SAMIL/blob/main/img/SAMIL.jpg)
+![image](https://github.com/CunqiaoHou/SAMIL/blob/main/img/model.jpg)
 # Requirements:
 ```
 Python: >=3.6   
